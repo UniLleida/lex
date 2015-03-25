@@ -1,0 +1,4 @@
+Un exemple d'entrada per al contador
+12345
+98765
+xorl

@@ -1,0 +1,4 @@
+
+Contador : contar linies i paraules com el wc
+Mailing: transformar-lo en estats (o condicions)
+Enters: tambe coma flotant
